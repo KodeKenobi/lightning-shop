@@ -12,7 +12,7 @@ interface ProductImageCarouselProps {
 
 export default function ProductImageCarousel({
   images,
-  alt,
+  alt: _alt,
   productName,
 }: ProductImageCarouselProps) {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);

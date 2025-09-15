@@ -25,7 +25,7 @@ interface ProductCardProps {
 export default function ProductCard({
   product,
   onAddToCart,
-  onViewProduct,
+  onViewProduct: _onViewProduct,
   onToggleWishlist,
 }: ProductCardProps) {
   const [isWishlisted, setIsWishlisted] = useState(false);

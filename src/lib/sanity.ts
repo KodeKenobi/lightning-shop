@@ -13,7 +13,7 @@ const builder = imageUrlBuilder(client);
 
 export const sanityClient = client;
 
-export function urlFor(source: any) {
+export function urlFor(source: {asset?: {_ref: string}; _ref?: string} | string) {
   return builder.image(source);
 }
 
@@ -35,7 +35,11 @@ export interface SanityHero {
 export interface SanityAbout {
   _id: string;
   title: string;
-  content: any[];
+  content: {
+    _type: string;
+    children?: {text: string}[];
+    style?: string;
+  }[];
   image: {
     asset: {
       _ref: string;
@@ -84,7 +88,14 @@ export async function getAboutContent(): Promise<SanityAbout | null> {
   }
 }
 
-export async function getContactContent(): Promise<any> {
+export async function getContactContent(): Promise<{
+  _id: string;
+  title: string;
+  description: string;
+  email: string;
+  phone: string;
+  address: string;
+} | null> {
   try {
     console.log("🔍 Fetching contact content from Sanity...");
     const query = `*[_type == "contact"][0]`;

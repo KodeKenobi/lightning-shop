@@ -18,7 +18,15 @@ export default function PromoCategoriesSection() {
     queryFn: async () => {
       const res = await fetch("/api/products");
       if (!res.ok) throw new Error("Failed to load");
-      return (await res.json()) as { products: any[] };
+      return (await res.json()) as { products: {
+        id: string;
+        name: string;
+        imageUrl: string;
+        images: string[];
+        priceCents: number;
+        description: string;
+        slug: string;
+      }[] };
     },
     retry: 0,
     staleTime: 300000,
@@ -114,7 +122,7 @@ export default function PromoCategoriesSection() {
             {/* Image dots indicator */}
             {productImages && productImages.length > 1 && (
               <div className="flex justify-center mb-3 space-x-2">
-                {productImages.map((_: any, index: number) => (
+                {productImages.map((_: string, index: number) => (
                   <button
                     key={index}
                     onClick={() => setCurrentImageIndex(index)}

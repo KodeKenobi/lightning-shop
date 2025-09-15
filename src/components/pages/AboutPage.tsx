@@ -9,7 +9,7 @@ export default function AboutPage() {
             About Lightning Shop
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            We're revolutionizing e-commerce with cutting-edge technology and
+            We&apos;re revolutionizing e-commerce with cutting-edge technology and
             lightning-fast performance.
           </p>
         </div>

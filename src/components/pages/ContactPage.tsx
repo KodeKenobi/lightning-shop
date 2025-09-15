@@ -33,8 +33,8 @@ export default function ContactPage() {
             Get in Touch
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Have questions? We'd love to hear from you. Send us a message and
-            we'll respond as soon as possible.
+            Have questions? We&apos;d love to hear from you. Send us a message and
+            we&apos;ll respond as soon as possible.
           </p>
         </div>
 
@@ -53,7 +53,7 @@ export default function ContactPage() {
                   <h3 className="font-semibold text-gray-900">Email</h3>
                   <p className="text-gray-600">hello@lightningshop.com</p>
                   <p className="text-gray-500 text-sm">
-                    We'll respond within 24 hours
+                    We&apos;ll respond within 24 hours
                   </p>
                 </div>
               </div>
