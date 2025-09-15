@@ -38,7 +38,17 @@ export interface ShopifyProduct {
 
 export const shopifyClient = client;
 
-export async function getProducts(): Promise<ShopifyProduct[]> {
+type Product = {
+  id: string;
+  slug: string;
+  name: string;
+  description: string;
+  priceCents: number;
+  imageUrl: string;
+  images: string[];
+};
+
+export async function getProducts(): Promise<Product[]> {
   console.log("🛒 Shopify API Request Starting...");
   console.log(
     "  - Store Domain:",
