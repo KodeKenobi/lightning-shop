@@ -8,8 +8,19 @@ import ProductsPage from "./pages/ProductsPage";
 import AboutPage from "./pages/AboutPage";
 import ContactPage from "./pages/ContactPage";
 
+interface HeroData {
+  title?: string;
+  subtitle?: string;
+  description?: string;
+  buttonText?: string;
+  image?: {
+    alt?: string;
+    [key: string]: unknown;
+  };
+}
+
 interface AppProps {
-  initialHeroData?: unknown;
+  initialHeroData?: HeroData;
   initialProductsData?: unknown[];
 }
 
