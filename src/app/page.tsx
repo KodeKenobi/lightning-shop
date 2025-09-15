@@ -9,5 +9,5 @@ export default async function HomePage() {
     getProducts(),
   ]);
 
-  return <App initialHeroData={heroData} initialProductsData={productsData} />;
+  return <App initialHeroData={heroData || undefined} initialProductsData={productsData} />;
 }
