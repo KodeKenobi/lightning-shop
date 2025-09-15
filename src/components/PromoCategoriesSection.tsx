@@ -28,8 +28,13 @@ export default function PromoCategoriesSection({
   const categoriesPerView = 3;
 
   const firstProduct = products?.[0];
-  const productImages =
-    firstProduct?.images || [firstProduct?.imageUrl].filter(Boolean);
+  const productImages = (
+    firstProduct?.images?.length 
+      ? firstProduct.images 
+      : firstProduct?.imageUrl 
+        ? [firstProduct.imageUrl] 
+        : []
+  ) as string[];
 
   const nextCategories = () => {
     setCurrentCategoryIndex((prev) =>
