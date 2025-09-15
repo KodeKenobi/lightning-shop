@@ -19,9 +19,19 @@ interface HeroData {
   };
 }
 
+type Product = {
+  id: string;
+  slug: string;
+  name: string;
+  description: string;
+  priceCents: number;
+  imageUrl: string;
+  images?: string[];
+};
+
 interface AppProps {
   initialHeroData?: HeroData;
-  initialProductsData?: unknown[];
+  initialProductsData?: Product[];
 }
 
 export default function App({
