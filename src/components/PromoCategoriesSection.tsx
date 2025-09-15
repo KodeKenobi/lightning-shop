@@ -2,42 +2,30 @@
 
 import { useState } from "react";
 import { FiChevronLeft, FiChevronRight } from "react-icons/fi";
-import { useQuery } from "@tanstack/react-query";
 import Image from "next/image";
+
+type Product = {
+  id: string;
+  slug: string;
+  name: string;
+  description: string;
+  priceCents: number;
+  imageUrl: string;
+  images: string[];
+};
+
+interface PromoCategoriesSectionProps {
+  products?: Product[];
+}
 
 const categories = Array.from({ length: 6 }, (_, i) => ({ id: i + 1 }));
 
-export default function PromoCategoriesSection() {
+export default function PromoCategoriesSection({ products }: PromoCategoriesSectionProps) {
   const [currentCategoryIndex, setCurrentCategoryIndex] = useState(0);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const categoriesPerView = 3;
 
-  // Fetch products from Shopify
-  const { data: productsData } = useQuery({
-    queryKey: ["products"],
-    queryFn: async () => {
-      const res = await fetch("/api/products");
-      if (!res.ok) throw new Error("Failed to load");
-      return (await res.json()) as {
-        products: {
-          id: string;
-          name: string;
-          imageUrl: string;
-          images: string[];
-          priceCents: number;
-          description: string;
-          slug: string;
-        }[];
-      };
-    },
-    retry: 0,
-    staleTime: 300000,
-    gcTime: 300000,
-    refetchOnWindowFocus: false,
-    refetchOnMount: false,
-  });
-
-  const firstProduct = productsData?.products[0];
+  const firstProduct = products?.[0];
   const productImages =
     firstProduct?.images || [firstProduct?.imageUrl].filter(Boolean);
 

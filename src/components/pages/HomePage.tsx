@@ -20,6 +20,7 @@ interface HeroData {
   description?: string;
   buttonText?: string;
   image?: {
+    asset?: { _ref: string };
     alt?: string;
     [key: string]: unknown;
   };
@@ -38,7 +39,7 @@ export default function HomePage({
     <div className="min-h-screen">
       <HeroSection initialHeroData={initialHeroData} />
 
-      <PromoCategoriesSection />
+      <PromoCategoriesSection products={initialProductsData} />
 
       <section className="py-12 bg-gray-50 min-h-screen flex flex-col">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 flex-1 flex flex-col">

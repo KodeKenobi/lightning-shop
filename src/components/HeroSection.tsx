@@ -10,6 +10,7 @@ interface HeroData {
   description?: string;
   buttonText?: string;
   image?: {
+    asset?: { _ref: string };
     alt?: string;
     [key: string]: unknown;
   };
