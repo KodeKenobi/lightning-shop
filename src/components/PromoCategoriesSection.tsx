@@ -11,7 +11,7 @@ type Product = {
   description: string;
   priceCents: number;
   imageUrl: string;
-  images: string[];
+  images?: string[];
 };
 
 interface PromoCategoriesSectionProps {
@@ -20,7 +20,9 @@ interface PromoCategoriesSectionProps {
 
 const categories = Array.from({ length: 6 }, (_, i) => ({ id: i + 1 }));
 
-export default function PromoCategoriesSection({ products }: PromoCategoriesSectionProps) {
+export default function PromoCategoriesSection({
+  products,
+}: PromoCategoriesSectionProps) {
   const [currentCategoryIndex, setCurrentCategoryIndex] = useState(0);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const categoriesPerView = 3;
