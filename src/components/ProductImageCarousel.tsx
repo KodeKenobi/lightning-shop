@@ -12,7 +12,7 @@ interface ProductImageCarouselProps {
 
 export default function ProductImageCarousel({
   images,
-  alt: _alt,
+  alt: _alt, // eslint-disable-line @typescript-eslint/no-unused-vars
   productName,
 }: ProductImageCarouselProps) {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);

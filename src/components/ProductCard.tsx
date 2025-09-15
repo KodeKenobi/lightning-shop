@@ -25,7 +25,7 @@ interface ProductCardProps {
 export default function ProductCard({
   product,
   onAddToCart,
-  onViewProduct: _onViewProduct,
+  onViewProduct: _onViewProduct, // eslint-disable-line @typescript-eslint/no-unused-vars
   onToggleWishlist,
 }: ProductCardProps) {
   const [isWishlisted, setIsWishlisted] = useState(false);

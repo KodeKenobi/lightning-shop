@@ -101,25 +101,31 @@ export async function getProducts(): Promise<ShopifyProduct[]> {
     console.log("🔍 Products Edges:", response.data?.products?.edges);
 
     const products =
-      response.data?.products?.edges?.map((edge: {node: {
-        id: string;
-        handle: string;
-        title: string;
-        description: string;
-        priceRange: {minVariantPrice: {amount: string}};
-        images: {edges: {node: {url: string}}[]};
-      }}) => ({
-        id: edge.node.id,
-        slug: edge.node.handle,
-        name: edge.node.title,
-        description: edge.node.description || "",
-        priceCents: Math.round(
-          parseFloat(edge.node.priceRange.minVariantPrice.amount) * 100
-        ),
-        imageUrl: edge.node.images.edges[0]?.node.url || "",
-        images:
-          edge.node.images.edges.map((imgEdge: {node: {url: string}}) => imgEdge.node.url) || [],
-      })) || [];
+      response.data?.products?.edges?.map(
+        (edge: {
+          node: {
+            id: string;
+            handle: string;
+            title: string;
+            description: string;
+            priceRange: { minVariantPrice: { amount: string } };
+            images: { edges: { node: { url: string } }[] };
+          };
+        }) => ({
+          id: edge.node.id,
+          slug: edge.node.handle,
+          name: edge.node.title,
+          description: edge.node.description || "",
+          priceCents: Math.round(
+            parseFloat(edge.node.priceRange.minVariantPrice.amount) * 100
+          ),
+          imageUrl: edge.node.images.edges[0]?.node.url || "",
+          images:
+            edge.node.images.edges.map(
+              (imgEdge: { node: { url: string } }) => imgEdge.node.url
+            ) || [],
+        })
+      ) || [];
 
     console.log("✅ Processed Products:", products);
     console.log("📊 Total Products Found:", products.length);
@@ -129,9 +135,10 @@ export async function getProducts(): Promise<ShopifyProduct[]> {
     console.error("❌ Shopify API Error:", error);
     console.error("❌ Error Details:", {
       message: error instanceof Error ? error.message : String(error),
-      response: (error as {response?: {data?: unknown}})?.response?.data,
-      status: (error as {response?: {status?: number}})?.response?.status,
-      statusText: (error as {response?: {statusText?: string}})?.response?.statusText,
+      response: (error as { response?: { data?: unknown } })?.response?.data,
+      status: (error as { response?: { status?: number } })?.response?.status,
+      statusText: (error as { response?: { statusText?: string } })?.response
+        ?.statusText,
     });
     return [];
   }

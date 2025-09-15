@@ -13,7 +13,9 @@ const builder = imageUrlBuilder(client);
 
 export const sanityClient = client;
 
-export function urlFor(source: {asset?: {_ref: string}; _ref?: string} | string) {
+export function urlFor(
+  source: { asset?: { _ref: string }; _ref?: string } | string
+) {
   return builder.image(source);
 }
 
@@ -37,7 +39,7 @@ export interface SanityAbout {
   title: string;
   content: {
     _type: string;
-    children?: {text: string}[];
+    children?: { text: string }[];
     style?: string;
   }[];
   image: {
