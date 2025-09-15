@@ -1,35 +1,32 @@
 "use client";
 
-import { useQuery } from "@tanstack/react-query";
-import Image from "next/image";
 import { useState, useMemo } from "react";
+import ProductCard from "../ProductCard";
 
 type Product = {
-  id: number;
+  id: string;
   slug: string;
   name: string;
   description: string;
   priceCents: number;
   imageUrl: string;
+  images?: string[];
 };
 
-export default function ProductsPage() {
+interface ProductsPageProps {
+  initialProductsData?: Product[];
+}
+
+export default function ProductsPage({
+  initialProductsData,
+}: ProductsPageProps) {
   const [searchTerm, setSearchTerm] = useState("");
   const [sortBy, setSortBy] = useState<"name" | "price">("name");
 
-  const { data, isLoading, isError } = useQuery({
-    queryKey: ["products"],
-    queryFn: async () => {
-      const res = await fetch("/api/products", { cache: "no-store" });
-      if (!res.ok) throw new Error("Failed to load");
-      return (await res.json()) as { products: Product[] };
-    },
-  });
-
   const filteredAndSortedProducts = useMemo(() => {
-    if (!data?.products) return [];
+    if (!initialProductsData) return [];
 
-    let filtered = data.products.filter(
+    const filtered = initialProductsData.filter(
       (product) =>
         product.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
         product.description.toLowerCase().includes(searchTerm.toLowerCase())
@@ -42,7 +39,7 @@ export default function ProductsPage() {
         return a.priceCents - b.priceCents;
       }
     });
-  }, [data?.products, searchTerm, sortBy]);
+  }, [initialProductsData, searchTerm, sortBy]);
 
   return (
     <div className="min-h-screen py-8">
@@ -88,21 +85,7 @@ export default function ProductsPage() {
           </select>
         </div>
 
-        {isLoading && (
-          <div className="flex justify-center py-12">
-            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"></div>
-          </div>
-        )}
-
-        {isError && (
-          <div className="text-center py-12">
-            <p className="text-red-600 text-lg">
-              Couldn't load products. Please try again.
-            </p>
-          </div>
-        )}
-
-        {filteredAndSortedProducts.length === 0 && !isLoading && (
+        {filteredAndSortedProducts.length === 0 && (
           <div className="text-center py-12">
             <p className="text-gray-500 text-lg">
               No products found matching your search.
@@ -112,42 +95,19 @@ export default function ProductsPage() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {filteredAndSortedProducts.map((product) => (
-            <article
+            <ProductCard
               key={product.id}
-              className="group bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-1"
-            >
-              <div className="relative aspect-square overflow-hidden bg-gray-50">
-                <Image
-                  src={product.imageUrl}
-                  alt={product.name}
-                  fill
-                  className="object-cover transition-transform duration-300 group-hover:scale-105"
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 25vw, 25vw"
-                />
-              </div>
-              <div className="p-4">
-                <h3 className="font-semibold text-gray-900 mb-2 line-clamp-1">
-                  {product.name}
-                </h3>
-                <p className="text-gray-600 text-sm mb-3 line-clamp-2">
-                  {product.description}
-                </p>
-                <div className="flex items-center justify-between">
-                  <span className="text-lg font-bold text-blue-600">
-                    {(product.priceCents / 100).toLocaleString(undefined, {
-                      style: "currency",
-                      currency: "USD",
-                    })}
-                  </span>
-                  <button
-                    className="bg-blue-600 text-white px-4 py-2 rounded-lg text-sm hover:bg-blue-700 transition-colors duration-200 active:scale-95"
-                    onClick={() => alert(`Add ${product.name} to cart`)}
-                  >
-                    Add to Cart
-                  </button>
-                </div>
-              </div>
-            </article>
+              product={product}
+              onAddToCart={(product) => {
+                console.log("Add to cart:", product.name);
+              }}
+              onViewProduct={(product) => {
+                console.log("View product:", product.name);
+              }}
+              onToggleWishlist={(product) => {
+                console.log("Toggle wishlist:", product.name);
+              }}
+            />
           ))}
         </div>
       </div>

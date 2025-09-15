@@ -1,14 +1,22 @@
 "use client";
 
 import { useState, useCallback } from "react";
-import Navbar from "./Navbar";
+import Header from "./Header";
 import PageTransition from "./PageTransition";
 import HomePage from "./pages/HomePage";
 import ProductsPage from "./pages/ProductsPage";
 import AboutPage from "./pages/AboutPage";
 import ContactPage from "./pages/ContactPage";
 
-export default function App() {
+interface AppProps {
+  initialHeroData?: unknown;
+  initialProductsData?: unknown[];
+}
+
+export default function App({
+  initialHeroData,
+  initialProductsData,
+}: AppProps) {
   const [currentPage, setCurrentPage] = useState("home");
 
   const handlePageChange = useCallback((page: string) => {
@@ -18,21 +26,35 @@ export default function App() {
   const renderPage = () => {
     switch (currentPage) {
       case "home":
-        return <HomePage />;
+        return (
+          <HomePage
+            initialHeroData={initialHeroData}
+            initialProductsData={initialProductsData}
+          />
+        );
       case "products":
-        return <ProductsPage />;
+        return <ProductsPage initialProductsData={initialProductsData} />;
       case "about":
         return <AboutPage />;
       case "contact":
         return <ContactPage />;
       default:
-        return <HomePage />;
+        return (
+          <HomePage
+            initialHeroData={initialHeroData}
+            initialProductsData={initialProductsData}
+          />
+        );
     }
   };
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <Navbar currentPage={currentPage} onPageChange={handlePageChange} />
+      <Header
+        currentPage={currentPage}
+        onPageChange={handlePageChange}
+        cartItemCount={0}
+      />
 
       <main className="relative">
         <PageTransition isVisible={true}>{renderPage()}</PageTransition>
