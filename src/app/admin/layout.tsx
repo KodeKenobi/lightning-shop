@@ -9,15 +9,11 @@ export default function AdminLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
-      <body className={inter.className}>
-        <div className="min-h-screen bg-gray-50">
-          <div className="flex">
-            <AdminSidebar />
-            <main className="flex-1 ml-64">{children}</main>
-          </div>
-        </div>
-      </body>
-    </html>
+    <div className="min-h-screen bg-gray-50 text-gray-900">
+      <div className="flex">
+        <AdminSidebar />
+        <main className="flex-1 ml-64">{children}</main>
+      </div>
+    </div>
   );
 }

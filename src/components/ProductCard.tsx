@@ -117,14 +117,14 @@ export default function ProductCard({
           <>
             <button
               onClick={prevImage}
-              className="absolute left-2 top-1/2 -translate-y-1/2 bg-white/90 backdrop-blur-sm text-gray-700 hover:bg-white hover:text-gray-900 rounded-full p-2 shadow-lg opacity-0 group-hover:opacity-100 transition-all duration-300 transform -translate-x-2 group-hover:translate-x-0"
+              className="absolute left-2 top-1/2 -translate-y-1/2 bg-black/80 backdrop-blur-sm text-white hover:bg-black rounded-full p-2 shadow-lg opacity-0 group-hover:opacity-100 transition-all duration-300 transform -translate-x-2 group-hover:translate-x-0"
               aria-label="Previous image"
             >
               <FiChevronLeft className="w-4 h-4" />
             </button>
             <button
               onClick={nextImage}
-              className="absolute right-2 top-1/2 -translate-y-1/2 bg-white/90 backdrop-blur-sm text-gray-700 hover:bg-white hover:text-gray-900 rounded-full p-2 shadow-lg opacity-0 group-hover:opacity-100 transition-all duration-300 transform translate-x-2 group-hover:translate-x-0"
+              className="absolute right-2 top-1/2 -translate-y-1/2 bg-black/80 backdrop-blur-sm text-white hover:bg-black rounded-full p-2 shadow-lg opacity-0 group-hover:opacity-100 transition-all duration-300 transform translate-x-2 group-hover:translate-x-0"
               aria-label="Next image"
             >
               <FiChevronRight className="w-4 h-4" />
@@ -144,8 +144,8 @@ export default function ProductCard({
                 }}
                 className={`w-2 h-2 rounded-full transition-all duration-200 ${
                   index === currentImageIndex
-                    ? "bg-white w-6"
-                    : "bg-white/60 hover:bg-white/80"
+                    ? "bg-black w-6"
+                    : "bg-black/40 hover:bg-black/60"
                 }`}
                 aria-label={`Go to image ${index + 1}`}
               />

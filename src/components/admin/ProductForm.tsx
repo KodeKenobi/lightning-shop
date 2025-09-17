@@ -53,7 +53,10 @@ export default function ProductForm() {
   const [tagInput, setTagInput] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
 
-  const handleInputChange = (field: keyof ProductData, value: string | number | boolean) => {
+  const handleInputChange = (
+    field: keyof ProductData,
+    value: string | number | boolean
+  ) => {
     setProductData((prev) => ({ ...prev, [field]: value }));
   };
 
@@ -219,7 +222,9 @@ export default function ProductForm() {
   return (
     <form onSubmit={handleSubmit} className="space-y-8">
       <div className="bg-white rounded-lg shadow p-6">
-        <h2 className="text-xl font-semibold mb-4">Basic Information</h2>
+        <h2 className="text-xl font-semibold mb-4 text-gray-900">
+          Basic Information
+        </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div>
@@ -316,7 +321,7 @@ export default function ProductForm() {
       </div>
 
       <div className="bg-white rounded-lg shadow p-6">
-        <h2 className="text-xl font-semibold mb-4">Media</h2>
+        <h2 className="text-xl font-semibold mb-4 text-gray-900">Media</h2>
 
         <div className="border-2 border-dashed border-gray-300 rounded-lg p-6 text-center">
           <FiUpload className="mx-auto h-12 w-12 text-gray-400" />
@@ -362,7 +367,7 @@ export default function ProductForm() {
       </div>
 
       <div className="bg-white rounded-lg shadow p-6">
-        <h2 className="text-xl font-semibold mb-4">Pricing</h2>
+        <h2 className="text-xl font-semibold mb-4 text-gray-900">Pricing</h2>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           <div>
@@ -441,7 +446,7 @@ export default function ProductForm() {
       </div>
 
       <div className="bg-white rounded-lg shadow p-6">
-        <h2 className="text-xl font-semibold mb-4">Inventory</h2>
+        <h2 className="text-xl font-semibold mb-4 text-gray-900">Inventory</h2>
 
         <div className="space-y-4">
           <div className="flex items-center">
@@ -538,7 +543,7 @@ export default function ProductForm() {
       </div>
 
       <div className="bg-white rounded-lg shadow p-6">
-        <h2 className="text-xl font-semibold mb-4">Shipping</h2>
+        <h2 className="text-xl font-semibold mb-4 text-gray-900">Shipping</h2>
 
         <div className="space-y-4">
           <div className="flex items-center">
@@ -591,7 +596,9 @@ export default function ProductForm() {
       </div>
 
       <div className="bg-white rounded-lg shadow p-6">
-        <h2 className="text-xl font-semibold mb-4">Search engine listing</h2>
+        <h2 className="text-xl font-semibold mb-4 text-gray-900">
+          Search engine listing
+        </h2>
 
         <div className="space-y-4">
           <div>
@@ -623,7 +630,7 @@ export default function ProductForm() {
       </div>
 
       <div className="bg-white rounded-lg shadow p-6">
-        <h2 className="text-xl font-semibold mb-4">Status</h2>
+        <h2 className="text-xl font-semibold mb-4 text-gray-900">Status</h2>
 
         <div className="space-y-4">
           <div>

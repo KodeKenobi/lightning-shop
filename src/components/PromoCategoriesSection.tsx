@@ -204,7 +204,7 @@ export default function PromoCategoriesSection({
                           e.stopPropagation();
                           prevImage();
                         }}
-                        className="absolute left-3 top-1/2 -translate-y-1/2 bg-white/90 backdrop-blur-sm hover:bg-white text-gray-700 hover:text-gray-900 rounded-full p-2.5 shadow-lg opacity-0 group-hover:opacity-100 transition-all duration-300 transform -translate-x-2 group-hover:translate-x-0"
+                        className="absolute left-3 top-1/2 -translate-y-1/2 bg-black/80 backdrop-blur-sm hover:bg-black text-white rounded-full p-2.5 shadow-lg opacity-0 group-hover:opacity-100 transition-all duration-300 transform -translate-x-2 group-hover:translate-x-0"
                         aria-label="Previous image"
                       >
                         <FiChevronLeft className="w-4 h-4" />
@@ -215,7 +215,7 @@ export default function PromoCategoriesSection({
                           e.stopPropagation();
                           nextImage();
                         }}
-                        className="absolute right-3 top-1/2 -translate-y-1/2 bg-white/90 backdrop-blur-sm hover:bg-white text-gray-700 hover:text-gray-900 rounded-full p-2.5 shadow-lg opacity-0 group-hover:opacity-100 transition-all duration-300 transform translate-x-2 group-hover:translate-x-0"
+                        className="absolute right-3 top-1/2 -translate-y-1/2 bg-black/80 backdrop-blur-sm hover:bg-black text-white rounded-full p-2.5 shadow-lg opacity-0 group-hover:opacity-100 transition-all duration-300 transform translate-x-2 group-hover:translate-x-0"
                         aria-label="Next image"
                       >
                         <FiChevronRight className="w-4 h-4" />
@@ -247,8 +247,8 @@ export default function PromoCategoriesSection({
                     }}
                     className={`w-2 h-2 rounded-full transition-all duration-200 ${
                       index === currentImageIndex
-                        ? "bg-gray-900 w-6"
-                        : "bg-gray-300 hover:bg-gray-400"
+                        ? "bg-black w-6"
+                        : "bg-black/40 hover:bg-black/60"
                     }`}
                     aria-label={`Go to image ${index + 1}`}
                   />

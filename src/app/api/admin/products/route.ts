@@ -128,7 +128,7 @@ export async function POST(request: NextRequest) {
               "Content-Type": "application/json",
             },
             body: JSON.stringify({
-              productId: result.product.id, // Use the original GraphQL ID for the API call
+              productId: `gid://shopify/Product/${result.product.id}`, // Convert to GraphQL ID format
               channelName: "Lightning",
             }),
           }
