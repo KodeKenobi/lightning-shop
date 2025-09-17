@@ -6,9 +6,6 @@ import Image from "next/image";
 import {
   FiHeart,
   FiShoppingCart,
-  FiEye,
-  FiStar,
-  FiZap,
   FiChevronLeft,
   FiChevronRight,
 } from "react-icons/fi";
@@ -39,7 +36,6 @@ export default function ProductCard({
 }: ProductCardProps) {
   const router = useRouter();
   const [isWishlisted, setIsWishlisted] = useState(false);
-  const [isHovered, setIsHovered] = useState(false);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   const formatPrice = (priceCents: number) => {
@@ -77,10 +73,6 @@ export default function ProductCard({
     onAddToCart?.(product);
   };
 
-  const handleQuickView = (e: React.MouseEvent) => {
-    e.stopPropagation();
-    router.push(`/products/${product.id}`);
-  };
 
   const nextImage = (e: React.MouseEvent) => {
     e.stopPropagation();
@@ -95,8 +87,6 @@ export default function ProductCard({
   return (
     <div
       onClick={handleCardClick}
-      onMouseEnter={() => setIsHovered(true)}
-      onMouseLeave={() => setIsHovered(false)}
       className="group relative bg-white rounded-2xl shadow-sm hover:shadow-2xl transition-all duration-500 overflow-hidden border border-gray-100 h-full flex flex-col cursor-pointer transform hover:-translate-y-2"
     >
       {/* Image Container with Gradient Overlay */}
@@ -191,24 +181,24 @@ export default function ProductCard({
               <span>Add to Cart</span>
             </button>
 
-            <button
-              onClick={handleWishlistToggle}
+          <button
+            onClick={handleWishlistToggle}
               className={`px-3 py-2 rounded-lg transition-all duration-300 transform hover:scale-105 ${
-                isWishlisted
+              isWishlisted
                   ? "bg-red-500 text-white shadow-md hover:shadow-lg"
                   : "bg-gray-100 text-gray-600 hover:bg-gray-200 hover:text-red-500"
-              }`}
-              aria-label={
-                isWishlisted ? "Remove from wishlist" : "Add to wishlist"
-              }
-            >
-              <FiHeart
+            }`}
+            aria-label={
+              isWishlisted ? "Remove from wishlist" : "Add to wishlist"
+            }
+          >
+            <FiHeart
                 className={`w-4 h-4 ${isWishlisted ? "fill-current" : ""}`}
-              />
-            </button>
-          </div>
+            />
+          </button>
         </div>
       </div>
+        </div>
 
       {/* Hover Effect Border */}
       <div className="absolute inset-0 rounded-2xl border-2 border-transparent group-hover:border-gradient-to-r group-hover:from-blue-500 group-hover:to-purple-500 transition-all duration-300 pointer-events-none" />

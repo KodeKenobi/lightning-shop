@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useMemo } from "react";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
 import {
@@ -9,7 +9,6 @@ import {
   FiMinus,
   FiPlus,
   FiShoppingCart,
-  FiStar,
 } from "react-icons/fi";
 
 interface Product {
@@ -63,7 +62,7 @@ export default function ProductDetails({ product }: ProductDetailsProps) {
     }
   }, [product.id]);
 
-  const images = product.images || [product.imageUrl];
+  const images = useMemo(() => product.images || [product.imageUrl], [product.images, product.imageUrl]);
   const currentImage = images[currentImageIndex];
 
   // Preload all images for instant switching
