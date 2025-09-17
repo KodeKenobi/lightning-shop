@@ -35,10 +35,8 @@ export async function POST(request: NextRequest) {
       index++;
     }
 
-    // For now, skip images as base64 doesn't work well with Shopify REST API
-    // Images would need to be uploaded separately or hosted elsewhere
-    const processedImages: { attachment: string }[] = [];
-    console.log(`Found ${images.length} images, but skipping upload for now`);
+    // Store images for later upload after product creation
+    const imagesToUpload = [...images];
 
     const shopifyProduct = {
       product: {
@@ -74,7 +72,6 @@ export async function POST(request: NextRequest) {
             taxable: true,
           },
         ],
-        images: processedImages,
         seo_title: productData.seoTitle || undefined,
         seo_description: productData.seoDescription || undefined,
       },
@@ -98,7 +95,10 @@ export async function POST(request: NextRequest) {
       }
     );
 
-    const result: { product?: { id: string | number; [key: string]: unknown }; errors?: unknown[] } = await response.json();
+    const result: {
+      product?: { id: string | number; [key: string]: unknown };
+      errors?: unknown[];
+    } = await response.json();
 
     console.log("Shopify API response:", result);
 
@@ -148,6 +148,69 @@ export async function POST(request: NextRequest) {
       } catch (publishError) {
         console.error("Error publishing to Lightning channel:", publishError);
         // Don't fail the entire request if Lightning publishing fails
+      }
+    }
+
+    // Upload images to the created product
+    if (imagesToUpload.length > 0 && result.product) {
+      console.log(
+        `Uploading ${imagesToUpload.length} images to product ${result.product.id}...`
+      );
+
+      for (const imageFile of imagesToUpload) {
+        if (!imageFile || !(imageFile instanceof File)) {
+          console.warn("Skipping invalid image file:", imageFile);
+          continue;
+        }
+
+        try {
+          // Convert file to base64
+          const base64 = await new Promise<string>((resolve, reject) => {
+            const reader = new FileReader();
+            reader.onload = () => {
+              const result = reader.result as string;
+              // Remove data:image/jpeg;base64, prefix
+              const base64Data = result.split(",")[1];
+              resolve(base64Data);
+            };
+            reader.onerror = reject;
+            reader.readAsDataURL(imageFile);
+          });
+
+          // Upload image to the specific product
+          const imageUploadResponse = await fetch(
+            `https://${process.env.NEXT_PUBLIC_SHOPIFY_STORE_DOMAIN}/admin/api/2024-10/products/${result.product.id}/images.json`,
+            {
+              method: "POST",
+              headers: {
+                "Content-Type": "application/json",
+                "X-Shopify-Access-Token":
+                  process.env.SHOPIFY_ADMIN_ACCESS_TOKEN!,
+              },
+              body: JSON.stringify({
+                image: {
+                  attachment: base64,
+                  filename: imageFile.name,
+                },
+              }),
+            }
+          );
+
+          if (imageUploadResponse.ok) {
+            const imageResult = await imageUploadResponse.json();
+            console.log(
+              `✅ Uploaded image: ${imageFile.name} - ${imageResult.image.src}`
+            );
+          } else {
+            const errorResult = await imageUploadResponse.json();
+            console.error(
+              `❌ Failed to upload image: ${imageFile.name}`,
+              errorResult
+            );
+          }
+        } catch (error) {
+          console.error(`❌ Error uploading image ${imageFile.name}:`, error);
+        }
       }
     }
 
