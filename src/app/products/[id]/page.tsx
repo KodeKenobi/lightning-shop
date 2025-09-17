@@ -3,9 +3,9 @@ import { getProducts } from "@/lib/shopify";
 import ProductDetails from "@/components/ProductDetails";
 
 interface ProductDetailsPageProps {
-  params: {
+  params: Promise<{
     id: string;
-  };
+  }>;
 }
 
 export default async function ProductDetailsPage({

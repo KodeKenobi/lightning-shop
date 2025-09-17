@@ -37,7 +37,7 @@ export async function POST(request: NextRequest) {
 
     // For now, skip images as base64 doesn't work well with Shopify REST API
     // Images would need to be uploaded separately or hosted elsewhere
-    const processedImages: any[] = [];
+    const processedImages: { attachment: string }[] = [];
     console.log(`Found ${images.length} images, but skipping upload for now`);
 
     const shopifyProduct = {
@@ -98,7 +98,7 @@ export async function POST(request: NextRequest) {
       }
     );
 
-    const result = await response.json();
+    const result: { product?: { id: string | number; [key: string]: unknown }; errors?: unknown[] } = await response.json();
 
     console.log("Shopify API response:", result);
 
@@ -152,6 +152,16 @@ export async function POST(request: NextRequest) {
     }
 
     // Convert GraphQL ID to numeric ID for consistency
+    if (!result.product) {
+      return NextResponse.json(
+        {
+          success: false,
+          message: "No product returned from Shopify",
+        },
+        { status: 400 }
+      );
+    }
+
     const productWithNumericId = {
       ...result.product,
       id:

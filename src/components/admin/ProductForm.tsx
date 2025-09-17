@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { FiUpload, FiX, FiPlus, FiTrash2 } from "react-icons/fi";
+import { FiUpload, FiX, FiPlus } from "react-icons/fi";
 
 interface ProductData {
   title: string;
@@ -53,7 +53,7 @@ export default function ProductForm() {
   const [tagInput, setTagInput] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
 
-  const handleInputChange = (field: keyof ProductData, value: any) => {
+  const handleInputChange = (field: keyof ProductData, value: string | number | boolean) => {
     setProductData((prev) => ({ ...prev, [field]: value }));
   };
 

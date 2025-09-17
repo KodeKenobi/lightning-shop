@@ -1,8 +1,8 @@
-import { NextRequest, NextResponse } from "next/server";
+import { NextResponse } from "next/server";
 
 export const runtime = "nodejs";
 
-export async function GET(request: NextRequest) {
+export async function GET() {
   try {
     // Query to get all available publications (sales channels)
     const publicationsQuery = `
@@ -33,7 +33,7 @@ export async function GET(request: NextRequest) {
       }
     );
 
-    const data = await response.json();
+    const data: { data?: { publications?: { edges?: Array<{ node: { id: string; name: string; supportsFuturePublishing?: boolean } }> } } } = await response.json();
     console.log("Channels response:", JSON.stringify(data, null, 2));
 
     if (!response.ok) {
@@ -49,7 +49,7 @@ export async function GET(request: NextRequest) {
     }
 
     const channels =
-      data.data?.publications?.edges?.map((edge: any) => ({
+      data.data?.publications?.edges?.map((edge: { node: { id: string; name: string; supportsFuturePublishing?: boolean } }) => ({
         id: edge.node.id,
         name: edge.node.name,
         supportsFuturePublishing: edge.node.supportsFuturePublishing,

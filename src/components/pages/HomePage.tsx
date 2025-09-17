@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect } from "react";
-import Link from "next/link";
 import { preloadProducts } from "@/lib/shopify";
 import HeroSection from "../HeroSection";
 import PromoCategoriesSection from "../PromoCategoriesSection";

@@ -1,6 +1,6 @@
 "use client";
 
-import { FiHeart, FiShoppingCart, FiUser, FiSearch } from "react-icons/fi";
+// Removed unused imports
 
 export default function Footer() {
   return (

@@ -62,20 +62,20 @@ export async function POST(request: NextRequest) {
 
     // Find the Lightning channel publication
     const publications = publicationsData.data?.publications?.edges || [];
-    const lightningChannel = publications.find((edge: any) =>
+    const lightningChannel = publications.find((edge: { node: { name: string } }) =>
       edge.node.name.toLowerCase().includes(channelName.toLowerCase())
     );
 
     if (!lightningChannel) {
       console.log(
         "Available channels:",
-        publications.map((p: any) => p.node.name)
+        publications.map((p: { node: { name: string } }) => p.node.name)
       );
       return NextResponse.json(
         {
           success: false,
           message: `Channel '${channelName}' not found`,
-          availableChannels: publications.map((p: any) => p.node.name),
+          availableChannels: publications.map((p: { node: { name: string } }) => p.node.name),
         },
         { status: 404 }
       );

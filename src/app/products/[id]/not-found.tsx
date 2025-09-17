@@ -10,9 +10,9 @@ export default function ProductNotFound() {
           <h2 className="text-2xl font-semibold text-gray-900 mb-2">
             Product Not Found
           </h2>
-          <p className="text-gray-600 mb-8">
-            The product you're looking for doesn't exist or has been removed.
-          </p>
+        <p className="text-gray-600 mb-8">
+          The product you&apos;re looking for doesn&apos;t exist or has been removed.
+        </p>
         </div>
 
         <Link

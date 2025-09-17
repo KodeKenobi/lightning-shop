@@ -2,7 +2,6 @@
 const nextConfig = {
   // Performance optimizations for zero-lag experience
   experimental: {
-    optimizeCss: true,
     optimizePackageImports: ["react-icons"],
   },
   images: {
@@ -30,10 +29,9 @@ const nextConfig = {
   },
   // Compress responses
   compress: true,
-  // Enable SWC minification
-  swcMinify: true,
+  // SWC minification is enabled by default in Next.js 15
   // Optimize bundle
-  webpack: (config: any) => {
+  webpack: (config: { optimization: { splitChunks: unknown } }) => {
     config.optimization.splitChunks = {
       chunks: "all",
       cacheGroups: {
