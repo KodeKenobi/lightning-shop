@@ -1,0 +1,4202 @@
+[
+  {
+    "title": "Wireless Bluetooth Headphones",
+    "body_html": "<p>Premium wireless headphones with active noise cancellation, 30-hour battery life, and crystal-clear sound quality. Perfect for music lovers and professionals.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Electronics",
+    "tags": [
+      "electronics",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "89.99",
+        "compare_at_price": "129.99",
+        "sku": "WBH-001",
+        "inventory_quantity": 50,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop",
+        "alt": "Wireless Bluetooth Headphones - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800&h=600&fit=crop",
+        "alt": "Wireless Bluetooth Headphones - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=600&fit=crop",
+        "alt": "Wireless Bluetooth Headphones - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Smart Fitness Watch",
+    "body_html": "<p>Advanced fitness tracking with heart rate monitoring, GPS, sleep tracking, and 7-day battery life. Your perfect workout companion.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Electronics",
+    "tags": [
+      "electronics",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "129.99",
+        "compare_at_price": "179.99",
+        "sku": "SFW-002",
+        "inventory_quantity": 75,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=600&fit=crop",
+        "alt": "Smart Fitness Watch - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800&h=600&fit=crop",
+        "alt": "Smart Fitness Watch - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop",
+        "alt": "Smart Fitness Watch - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Wireless Charging Pad",
+    "body_html": "<p>Fast wireless charging pad compatible with all Qi-enabled devices. Sleek design with LED indicator and safety protection.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Electronics",
+    "tags": [
+      "electronics",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "29.99",
+        "compare_at_price": "49.99",
+        "sku": "WCP-003",
+        "inventory_quantity": 100,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 3,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop",
+        "alt": "Wireless Charging Pad - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=600&fit=crop",
+        "alt": "Wireless Charging Pad - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=600&fit=crop",
+        "alt": "Wireless Charging Pad - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Bluetooth Speaker",
+    "body_html": "<p>Portable Bluetooth speaker with 360-degree sound, waterproof design, and 12-hour battery life. Perfect for outdoor adventures.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Electronics",
+    "tags": [
+      "electronics",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "49.99",
+        "compare_at_price": "79.99",
+        "sku": "BTS-004",
+        "inventory_quantity": 60,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop",
+        "alt": "Bluetooth Speaker - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop",
+        "alt": "Bluetooth Speaker - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800&h=600&fit=crop",
+        "alt": "Bluetooth Speaker - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "USB-C Hub",
+    "body_html": "<p>Multi-port USB-C hub with HDMI, USB 3.0, SD card reader, and power delivery. Essential for modern laptops.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Electronics",
+    "tags": [
+      "electronics",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "39.99",
+        "compare_at_price": "59.99",
+        "sku": "UCH-005",
+        "inventory_quantity": 80,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=600&fit=crop",
+        "alt": "USB-C Hub - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800&h=600&fit=crop",
+        "alt": "USB-C Hub - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop",
+        "alt": "USB-C Hub - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Gaming Mouse",
+    "body_html": "<p>High-precision gaming mouse with RGB lighting, programmable buttons, and 16000 DPI sensor. Built for competitive gaming.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Electronics",
+    "tags": [
+      "electronics",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "69.99",
+        "compare_at_price": "99.99",
+        "sku": "GM-006",
+        "inventory_quantity": 45,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=600&fit=crop",
+        "alt": "Gaming Mouse - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop",
+        "alt": "Gaming Mouse - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800&h=600&fit=crop",
+        "alt": "Gaming Mouse - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Mechanical Keyboard",
+    "body_html": "<p>Premium mechanical keyboard with Cherry MX switches, RGB backlighting, and aluminum frame. Perfect for typing and gaming.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Electronics",
+    "tags": [
+      "electronics",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "89.99",
+        "compare_at_price": "129.99",
+        "sku": "MK-007",
+        "inventory_quantity": 35,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop",
+        "alt": "Mechanical Keyboard - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800&h=600&fit=crop",
+        "alt": "Mechanical Keyboard - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=600&fit=crop",
+        "alt": "Mechanical Keyboard - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Webcam HD",
+    "body_html": "<p>1080p HD webcam with auto-focus, built-in microphone, and privacy shutter. Ideal for video calls and streaming.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Electronics",
+    "tags": [
+      "electronics",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "59.99",
+        "compare_at_price": "89.99",
+        "sku": "WH-008",
+        "inventory_quantity": 70,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop",
+        "alt": "Webcam HD - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop",
+        "alt": "Webcam HD - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=600&fit=crop",
+        "alt": "Webcam HD - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Power Bank 20000mAh",
+    "body_html": "<p>High-capacity power bank with fast charging, multiple ports, and LED display. Keep your devices powered all day.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Electronics",
+    "tags": [
+      "electronics",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "39.99",
+        "compare_at_price": "59.99",
+        "sku": "PB-009",
+        "inventory_quantity": 90,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800&h=600&fit=crop",
+        "alt": "Power Bank 20000mAh - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=600&fit=crop",
+        "alt": "Power Bank 20000mAh - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=600&fit=crop",
+        "alt": "Power Bank 20000mAh - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Tablet Stand",
+    "body_html": "<p>Adjustable tablet stand with multiple viewing angles, foldable design, and anti-slip base. Perfect for work and entertainment.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Electronics",
+    "tags": [
+      "electronics",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "TS-010",
+        "inventory_quantity": 120,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop",
+        "alt": "Tablet Stand - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=600&fit=crop",
+        "alt": "Tablet Stand - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop",
+        "alt": "Tablet Stand - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Classic Denim Jacket",
+    "body_html": "<p>Timeless denim jacket made from premium cotton denim. Classic fit with vintage wash and modern styling details.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Fashion",
+    "tags": [
+      "fashion",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "79.99",
+        "compare_at_price": "119.99",
+        "sku": "CDJ-011",
+        "inventory_quantity": 40,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=800&h=600&fit=crop",
+        "alt": "Classic Denim Jacket - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=800&h=600&fit=crop",
+        "alt": "Classic Denim Jacket - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=600&fit=crop",
+        "alt": "Classic Denim Jacket - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Luxury Cashmere Scarf",
+    "body_html": "<p>100% pure cashmere scarf with soft texture and elegant design. Perfect for adding sophistication to any outfit.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Fashion",
+    "tags": [
+      "fashion",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "129.99",
+        "compare_at_price": "199.99",
+        "sku": "LCS-012",
+        "inventory_quantity": 25,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=800&h=600&fit=crop",
+        "alt": "Luxury Cashmere Scarf - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=800&h=600&fit=crop",
+        "alt": "Luxury Cashmere Scarf - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800&h=600&fit=crop",
+        "alt": "Luxury Cashmere Scarf - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Leather Crossbody Bag",
+    "body_html": "<p>Genuine leather crossbody bag with adjustable strap, multiple compartments, and timeless design. Handcrafted for durability.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Fashion",
+    "tags": [
+      "fashion",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "99.99",
+        "compare_at_price": "149.99",
+        "sku": "LCB-013",
+        "inventory_quantity": 30,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=600&fit=crop",
+        "alt": "Leather Crossbody Bag - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=800&h=600&fit=crop",
+        "alt": "Leather Crossbody Bag - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800&h=600&fit=crop",
+        "alt": "Leather Crossbody Bag - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Silk Blouse",
+    "body_html": "<p>Elegant silk blouse with flowing silhouette and delicate details. Perfect for professional and special occasions.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Fashion",
+    "tags": [
+      "fashion",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "69.99",
+        "compare_at_price": "99.99",
+        "sku": "SB-014",
+        "inventory_quantity": 50,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=800&h=600&fit=crop",
+        "alt": "Silk Blouse - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800&h=600&fit=crop",
+        "alt": "Silk Blouse - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=800&h=600&fit=crop",
+        "alt": "Silk Blouse - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Designer Sunglasses",
+    "body_html": "<p>Premium designer sunglasses with UV400 protection, polarized lenses, and luxury case. Style meets functionality.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Fashion",
+    "tags": [
+      "fashion",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "149.99",
+        "compare_at_price": "229.99",
+        "sku": "DS-015",
+        "inventory_quantity": 20,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=600&fit=crop",
+        "alt": "Designer Sunglasses - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=800&h=600&fit=crop",
+        "alt": "Designer Sunglasses - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&h=600&fit=crop",
+        "alt": "Designer Sunglasses - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Wool Blend Coat",
+    "body_html": "<p>Warm wool blend coat with classic tailoring and modern fit. Perfect for cold weather with timeless style.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Fashion",
+    "tags": [
+      "fashion",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "179.99",
+        "compare_at_price": "249.99",
+        "sku": "WBC-016",
+        "inventory_quantity": 15,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=600&fit=crop",
+        "alt": "Wool Blend Coat - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=800&h=600&fit=crop",
+        "alt": "Wool Blend Coat - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800&h=600&fit=crop",
+        "alt": "Wool Blend Coat - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Canvas Sneakers",
+    "body_html": "<p>Comfortable canvas sneakers with rubber sole and classic design. Perfect for casual wear and everyday comfort.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Fashion",
+    "tags": [
+      "fashion",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "49.99",
+        "compare_at_price": "79.99",
+        "sku": "CS-017",
+        "inventory_quantity": 80,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 3,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800&h=600&fit=crop",
+        "alt": "Canvas Sneakers - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=800&h=600&fit=crop",
+        "alt": "Canvas Sneakers - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&h=600&fit=crop",
+        "alt": "Canvas Sneakers - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Leather Belt",
+    "body_html": "<p>Genuine leather belt with classic buckle and adjustable sizing. Essential accessory for any wardrobe.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Fashion",
+    "tags": [
+      "fashion",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "29.99",
+        "compare_at_price": "49.99",
+        "sku": "LB-018",
+        "inventory_quantity": 60,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=800&h=600&fit=crop",
+        "alt": "Leather Belt - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&h=600&fit=crop",
+        "alt": "Leather Belt - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800&h=600&fit=crop",
+        "alt": "Leather Belt - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Knit Beanie",
+    "body_html": "<p>Soft knit beanie with ribbed design and comfortable fit. Perfect for keeping warm in style.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Fashion",
+    "tags": [
+      "fashion",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "KB-019",
+        "inventory_quantity": 100,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=800&h=600&fit=crop",
+        "alt": "Knit Beanie - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=600&fit=crop",
+        "alt": "Knit Beanie - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&h=600&fit=crop",
+        "alt": "Knit Beanie - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Silk Tie",
+    "body_html": "<p>Premium silk tie with classic pattern and perfect length. Essential for formal occasions and business attire.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Fashion",
+    "tags": [
+      "fashion",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "39.99",
+        "compare_at_price": "59.99",
+        "sku": "ST-020",
+        "inventory_quantity": 45,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=800&h=600&fit=crop",
+        "alt": "Silk Tie - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&h=600&fit=crop",
+        "alt": "Silk Tie - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=600&fit=crop",
+        "alt": "Silk Tie - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Ceramic Coffee Mug Set",
+    "body_html": "<p>Handcrafted ceramic coffee mug set with unique glazes and comfortable handles. Perfect for morning coffee rituals.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Home & Living",
+    "tags": [
+      "home & living",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "29.99",
+        "compare_at_price": "49.99",
+        "sku": "CCM-021",
+        "inventory_quantity": 75,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop",
+        "alt": "Ceramic Coffee Mug Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Ceramic Coffee Mug Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop",
+        "alt": "Ceramic Coffee Mug Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Bamboo Cutting Board",
+    "body_html": "<p>Eco-friendly bamboo cutting board with juice groove and antimicrobial properties. Sustainable and durable kitchen essential.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Home & Living",
+    "tags": [
+      "home & living",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "39.99",
+        "compare_at_price": "59.99",
+        "sku": "BCB-022",
+        "inventory_quantity": 50,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Bamboo Cutting Board - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Bamboo Cutting Board - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop",
+        "alt": "Bamboo Cutting Board - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "LED Desk Lamp",
+    "body_html": "<p>Adjustable LED desk lamp with multiple brightness levels, USB charging port, and modern minimalist design.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Home & Living",
+    "tags": [
+      "home & living",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "49.99",
+        "compare_at_price": "79.99",
+        "sku": "LDL-023",
+        "inventory_quantity": 40,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "LED Desk Lamp - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "LED Desk Lamp - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop",
+        "alt": "LED Desk Lamp - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Throw Pillow Set",
+    "body_html": "<p>Decorative throw pillow set with soft covers and comfortable filling. Add style and comfort to any space.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Home & Living",
+    "tags": [
+      "home & living",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "TPS-024",
+        "inventory_quantity": 60,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Throw Pillow Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop",
+        "alt": "Throw Pillow Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Throw Pillow Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Plant Pot Set",
+    "body_html": "<p>Modern plant pot set with drainage holes and saucers. Perfect for indoor plants and home gardening.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Home & Living",
+    "tags": [
+      "home & living",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "24.99",
+        "compare_at_price": "39.99",
+        "sku": "PPS-025",
+        "inventory_quantity": 80,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Plant Pot Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop",
+        "alt": "Plant Pot Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Plant Pot Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Candles Gift Set",
+    "body_html": "<p>Luxury scented candles gift set with natural soy wax and premium fragrances. Create a cozy atmosphere.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Home & Living",
+    "tags": [
+      "home & living",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "39.99",
+        "compare_at_price": "59.99",
+        "sku": "CGS-026",
+        "inventory_quantity": 35,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Candles Gift Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop",
+        "alt": "Candles Gift Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop",
+        "alt": "Candles Gift Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Wall Art Print",
+    "body_html": "<p>High-quality wall art print with vibrant colors and professional printing. Transform any room with beautiful artwork.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Home & Living",
+    "tags": [
+      "home & living",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "WAP-027",
+        "inventory_quantity": 90,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Wall Art Print - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop",
+        "alt": "Wall Art Print - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Wall Art Print - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Storage Baskets",
+    "body_html": "<p>Woven storage baskets with natural materials and various sizes. Organize your space with style and functionality.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Home & Living",
+    "tags": [
+      "home & living",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "14.99",
+        "compare_at_price": "24.99",
+        "sku": "SB-028",
+        "inventory_quantity": 100,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop",
+        "alt": "Storage Baskets - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Storage Baskets - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Storage Baskets - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Kitchen Knife Set",
+    "body_html": "<p>Professional kitchen knife set with stainless steel blades and ergonomic handles. Essential for every home chef.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Home & Living",
+    "tags": [
+      "home & living",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "69.99",
+        "compare_at_price": "99.99",
+        "sku": "KKS-029",
+        "inventory_quantity": 25,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Kitchen Knife Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop",
+        "alt": "Kitchen Knife Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Kitchen Knife Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Bedding Set",
+    "body_html": "<p>Luxury bedding set with 100% cotton sheets, pillowcases, and duvet cover. Comfortable sleep guaranteed.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Home & Living",
+    "tags": [
+      "home & living",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "89.99",
+        "compare_at_price": "129.99",
+        "sku": "BS-030",
+        "inventory_quantity": 30,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Bedding Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+        "alt": "Bedding Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop",
+        "alt": "Bedding Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Yoga Mat Premium",
+    "body_html": "<p>Non-slip yoga mat with extra cushioning and carrying strap. Perfect for yoga, pilates, and fitness routines.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Sports & Fitness",
+    "tags": [
+      "sports & fitness",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "39.99",
+        "compare_at_price": "59.99",
+        "sku": "YMP-031",
+        "inventory_quantity": 60,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Yoga Mat Premium - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Yoga Mat Premium - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Yoga Mat Premium - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Resistance Bands Set",
+    "body_html": "<p>Complete resistance bands set with different resistance levels and exercise guide. Home gym essential.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Sports & Fitness",
+    "tags": [
+      "sports & fitness",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "RBS-032",
+        "inventory_quantity": 80,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Resistance Bands Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Resistance Bands Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Resistance Bands Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Water Bottle Insulated",
+    "body_html": "<p>Insulated water bottle that keeps drinks cold for 24 hours. Perfect for workouts and outdoor activities.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Sports & Fitness",
+    "tags": [
+      "sports & fitness",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "24.99",
+        "compare_at_price": "39.99",
+        "sku": "WBI-033",
+        "inventory_quantity": 100,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Water Bottle Insulated - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Water Bottle Insulated - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Water Bottle Insulated - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Running Shoes",
+    "body_html": "<p>Lightweight running shoes with responsive cushioning and breathable upper. Designed for comfort and performance.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Sports & Fitness",
+    "tags": [
+      "sports & fitness",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "79.99",
+        "compare_at_price": "119.99",
+        "sku": "RS-034",
+        "inventory_quantity": 45,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Running Shoes - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Running Shoes - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Running Shoes - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Dumbbell Set",
+    "body_html": "<p>Adjustable dumbbell set with multiple weight options and compact design. Complete home gym solution.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Sports & Fitness",
+    "tags": [
+      "sports & fitness",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "59.99",
+        "compare_at_price": "89.99",
+        "sku": "DS-035",
+        "inventory_quantity": 20,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Dumbbell Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Dumbbell Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Dumbbell Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Jump Rope",
+    "body_html": "<p>Professional jump rope with adjustable length and smooth bearings. Great for cardio and coordination.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Sports & Fitness",
+    "tags": [
+      "sports & fitness",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "9.99",
+        "compare_at_price": "19.99",
+        "sku": "JR-036",
+        "inventory_quantity": 120,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Jump Rope - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Jump Rope - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Jump Rope - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Foam Roller",
+    "body_html": "<p>High-density foam roller for muscle recovery and flexibility. Essential for post-workout recovery.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Sports & Fitness",
+    "tags": [
+      "sports & fitness",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "29.99",
+        "compare_at_price": "49.99",
+        "sku": "FR-037",
+        "inventory_quantity": 40,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Foam Roller - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Foam Roller - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Foam Roller - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Gym Towel",
+    "body_html": "<p>Quick-dry gym towel with antimicrobial properties and compact size. Perfect for intense workouts.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Sports & Fitness",
+    "tags": [
+      "sports & fitness",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "14.99",
+        "compare_at_price": "24.99",
+        "sku": "GT-038",
+        "inventory_quantity": 150,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 3,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Gym Towel - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Gym Towel - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Gym Towel - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Protein Shaker",
+    "body_html": "<p>BPA-free protein shaker with mixing ball and leak-proof lid. Essential for post-workout nutrition.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Sports & Fitness",
+    "tags": [
+      "sports & fitness",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "PS-039",
+        "inventory_quantity": 70,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Protein Shaker - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Protein Shaker - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Protein Shaker - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Exercise Ball",
+    "body_html": "<p>Anti-burst exercise ball with pump included. Perfect for core workouts and balance training.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Sports & Fitness",
+    "tags": [
+      "sports & fitness",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "24.99",
+        "compare_at_price": "39.99",
+        "sku": "EB-040",
+        "inventory_quantity": 35,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 3,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Exercise Ball - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Exercise Ball - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        "alt": "Exercise Ball - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Skincare Set",
+    "body_html": "<p>Complete skincare set with cleanser, moisturizer, and serum. Natural ingredients for healthy, glowing skin.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Beauty & Personal Care",
+    "tags": [
+      "beauty & personal care",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "69.99",
+        "compare_at_price": "99.99",
+        "sku": "SS-041",
+        "inventory_quantity": 50,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Skincare Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Skincare Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Skincare Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Hair Dryer Professional",
+    "body_html": "<p>Professional hair dryer with ionic technology and multiple heat settings. Salon-quality results at home.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Beauty & Personal Care",
+    "tags": [
+      "beauty & personal care",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "59.99",
+        "compare_at_price": "89.99",
+        "sku": "HDP-042",
+        "inventory_quantity": 30,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Hair Dryer Professional - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Hair Dryer Professional - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Hair Dryer Professional - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Makeup Brush Set",
+    "body_html": "<p>Professional makeup brush set with soft synthetic bristles and ergonomic handles. Perfect for flawless application.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Beauty & Personal Care",
+    "tags": [
+      "beauty & personal care",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "39.99",
+        "compare_at_price": "59.99",
+        "sku": "MBS-043",
+        "inventory_quantity": 60,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Makeup Brush Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Makeup Brush Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Makeup Brush Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Essential Oils Kit",
+    "body_html": "<p>Pure essential oils kit with 6 popular scents and diffuser. Natural aromatherapy for relaxation and wellness.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Beauty & Personal Care",
+    "tags": [
+      "beauty & personal care",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "49.99",
+        "compare_at_price": "79.99",
+        "sku": "EOK-044",
+        "inventory_quantity": 40,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 3,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Essential Oils Kit - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Essential Oils Kit - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Essential Oils Kit - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Bath Bomb Collection",
+    "body_html": "<p>Luxury bath bomb collection with natural ingredients and beautiful colors. Transform bath time into spa experience.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Beauty & Personal Care",
+    "tags": [
+      "beauty & personal care",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "29.99",
+        "compare_at_price": "49.99",
+        "sku": "BBC-045",
+        "inventory_quantity": 80,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 3,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Bath Bomb Collection - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Bath Bomb Collection - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Bath Bomb Collection - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Face Mask Set",
+    "body_html": "<p>Sheet face mask set with different skin benefits and natural ingredients. Pamper your skin weekly.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Beauty & Personal Care",
+    "tags": [
+      "beauty & personal care",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "24.99",
+        "compare_at_price": "39.99",
+        "sku": "FMS-046",
+        "inventory_quantity": 70,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Face Mask Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Face Mask Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Face Mask Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Perfume Gift Set",
+    "body_html": "<p>Luxury perfume gift set with 3 travel-sized fragrances. Discover your signature scent.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Beauty & Personal Care",
+    "tags": [
+      "beauty & personal care",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "89.99",
+        "compare_at_price": "129.99",
+        "sku": "PGS-047",
+        "inventory_quantity": 25,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Perfume Gift Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Perfume Gift Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Perfume Gift Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Nail Care Kit",
+    "body_html": "<p>Complete nail care kit with tools, polishes, and accessories. Professional manicure at home.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Beauty & Personal Care",
+    "tags": [
+      "beauty & personal care",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "NCK-048",
+        "inventory_quantity": 90,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Nail Care Kit - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Nail Care Kit - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Nail Care Kit - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Body Lotion Set",
+    "body_html": "<p>Nourishing body lotion set with different scents and natural ingredients. Keep skin soft and hydrated.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Beauty & Personal Care",
+    "tags": [
+      "beauty & personal care",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "34.99",
+        "compare_at_price": "49.99",
+        "sku": "BLS-049",
+        "inventory_quantity": 55,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Body Lotion Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Body Lotion Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Body Lotion Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Hair Care Bundle",
+    "body_html": "<p>Complete hair care bundle with shampoo, conditioner, and treatment. Professional hair care routine.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Beauty & Personal Care",
+    "tags": [
+      "beauty & personal care",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "59.99",
+        "compare_at_price": "89.99",
+        "sku": "HCB-050",
+        "inventory_quantity": 35,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Hair Care Bundle - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Hair Care Bundle - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
+        "alt": "Hair Care Bundle - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Leather Journal",
+    "body_html": "<p>Handcrafted leather journal with lined pages and elastic closure. Perfect for writing, sketching, and planning.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Books & Stationery",
+    "tags": [
+      "books & stationery",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "29.99",
+        "compare_at_price": "49.99",
+        "sku": "LJ-051",
+        "inventory_quantity": 45,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Leather Journal - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Leather Journal - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Leather Journal - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Fountain Pen Set",
+    "body_html": "<p>Premium fountain pen set with multiple nib sizes and ink cartridges. Elegant writing experience.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Books & Stationery",
+    "tags": [
+      "books & stationery",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "49.99",
+        "compare_at_price": "79.99",
+        "sku": "FPS-052",
+        "inventory_quantity": 30,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Fountain Pen Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Fountain Pen Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Fountain Pen Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Notebook Collection",
+    "body_html": "<p>Set of 3 notebooks with different paper types and covers. Perfect for various writing needs.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Books & Stationery",
+    "tags": [
+      "books & stationery",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "NC-053",
+        "inventory_quantity": 80,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Notebook Collection - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Notebook Collection - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Notebook Collection - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Desk Organizer",
+    "body_html": "<p>Wooden desk organizer with multiple compartments for pens, papers, and office supplies. Keep workspace tidy.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Books & Stationery",
+    "tags": [
+      "books & stationery",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "34.99",
+        "compare_at_price": "49.99",
+        "sku": "DO-054",
+        "inventory_quantity": 60,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Desk Organizer - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Desk Organizer - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Desk Organizer - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Bookmark Set",
+    "body_html": "<p>Elegant bookmark set with different designs and materials. Perfect gift for book lovers.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Books & Stationery",
+    "tags": [
+      "books & stationery",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "9.99",
+        "compare_at_price": "19.99",
+        "sku": "BMS-055",
+        "inventory_quantity": 120,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Bookmark Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Bookmark Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Bookmark Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Planner 2024",
+    "body_html": "<p>Comprehensive 2024 planner with monthly and weekly layouts, goal tracking, and inspirational quotes.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Books & Stationery",
+    "tags": [
+      "books & stationery",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "24.99",
+        "compare_at_price": "39.99",
+        "sku": "P24-056",
+        "inventory_quantity": 70,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Planner 2024 - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Planner 2024 - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Planner 2024 - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Calligraphy Set",
+    "body_html": "<p>Complete calligraphy set with pens, ink, and practice sheets. Learn beautiful handwriting art.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Books & Stationery",
+    "tags": [
+      "books & stationery",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "39.99",
+        "compare_at_price": "59.99",
+        "sku": "CS-057",
+        "inventory_quantity": 25,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 3,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Calligraphy Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Calligraphy Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Calligraphy Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Sticky Notes Pack",
+    "body_html": "<p>Colorful sticky notes pack with different sizes and shapes. Organize and remember important tasks.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Books & Stationery",
+    "tags": [
+      "books & stationery",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "14.99",
+        "compare_at_price": "24.99",
+        "sku": "SNP-058",
+        "inventory_quantity": 100,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Sticky Notes Pack - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Sticky Notes Pack - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Sticky Notes Pack - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Pencil Case",
+    "body_html": "<p>Durable pencil case with multiple compartments and zipper closure. Keep writing tools organized.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Books & Stationery",
+    "tags": [
+      "books & stationery",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "PC-059",
+        "inventory_quantity": 90,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Pencil Case - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Pencil Case - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Pencil Case - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Reading Light",
+    "body_html": "<p>LED reading light with adjustable brightness and flexible neck. Perfect for late-night reading.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Books & Stationery",
+    "tags": [
+      "books & stationery",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "29.99",
+        "compare_at_price": "49.99",
+        "sku": "RL-060",
+        "inventory_quantity": 50,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Reading Light - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Reading Light - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop",
+        "alt": "Reading Light - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Board Game Collection",
+    "body_html": "<p>Family board game collection with 3 popular games. Perfect for game nights and family bonding.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Toys & Games",
+    "tags": [
+      "toys & games",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "49.99",
+        "compare_at_price": "79.99",
+        "sku": "BGC-061",
+        "inventory_quantity": 40,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Board Game Collection - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Board Game Collection - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Board Game Collection - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Puzzle 1000 Pieces",
+    "body_html": "<p>High-quality 1000-piece puzzle with beautiful artwork and sturdy pieces. Great for relaxation and focus.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Toys & Games",
+    "tags": [
+      "toys & games",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "P1K-062",
+        "inventory_quantity": 60,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Puzzle 1000 Pieces - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Puzzle 1000 Pieces - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Puzzle 1000 Pieces - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Building Blocks Set",
+    "body_html": "<p>Educational building blocks set with various shapes and colors. Develop creativity and motor skills.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Toys & Games",
+    "tags": [
+      "toys & games",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "39.99",
+        "compare_at_price": "59.99",
+        "sku": "BBS-063",
+        "inventory_quantity": 35,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 3,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Building Blocks Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Building Blocks Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Building Blocks Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Card Game Pack",
+    "body_html": "<p>Classic card game pack with multiple games and instructions. Portable entertainment for any occasion.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Toys & Games",
+    "tags": [
+      "toys & games",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "14.99",
+        "compare_at_price": "24.99",
+        "sku": "CGP-064",
+        "inventory_quantity": 80,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Card Game Pack - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Card Game Pack - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Card Game Pack - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Art Supplies Kit",
+    "body_html": "<p>Complete art supplies kit with crayons, markers, and coloring books. Encourage creativity in children.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Toys & Games",
+    "tags": [
+      "toys & games",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "29.99",
+        "compare_at_price": "49.99",
+        "sku": "ASK-065",
+        "inventory_quantity": 50,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Art Supplies Kit - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Art Supplies Kit - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Art Supplies Kit - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Educational Toy",
+    "body_html": "<p>Interactive educational toy that teaches letters, numbers, and shapes. Learning through play.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Toys & Games",
+    "tags": [
+      "toys & games",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "24.99",
+        "compare_at_price": "39.99",
+        "sku": "ET-066",
+        "inventory_quantity": 45,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 3,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Educational Toy - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Educational Toy - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Educational Toy - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Outdoor Game Set",
+    "body_html": "<p>Outdoor game set with various activities for backyard fun. Perfect for parties and gatherings.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Toys & Games",
+    "tags": [
+      "toys & games",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "34.99",
+        "compare_at_price": "49.99",
+        "sku": "OGS-067",
+        "inventory_quantity": 30,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Outdoor Game Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Outdoor Game Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Outdoor Game Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Magic Kit",
+    "body_html": "<p>Beginner magic kit with props and instructions. Learn amazing tricks and impress friends.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Toys & Games",
+    "tags": [
+      "toys & games",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "MK-068",
+        "inventory_quantity": 55,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 3,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Magic Kit - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Magic Kit - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Magic Kit - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Science Experiment Kit",
+    "body_html": "<p>Safe science experiment kit with materials and instructions. Spark curiosity and learning.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Toys & Games",
+    "tags": [
+      "toys & games",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "39.99",
+        "compare_at_price": "59.99",
+        "sku": "SEK-069",
+        "inventory_quantity": 25,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Science Experiment Kit - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Science Experiment Kit - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Science Experiment Kit - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Doll House",
+    "body_html": "<p>Detailed doll house with furniture and accessories. Hours of imaginative play for children.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Toys & Games",
+    "tags": [
+      "toys & games",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "59.99",
+        "compare_at_price": "89.99",
+        "sku": "DH-070",
+        "inventory_quantity": 20,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Doll House - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Doll House - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Doll House - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Car Phone Mount",
+    "body_html": "<p>Magnetic car phone mount with adjustable angle and strong grip. Safe and convenient phone holder.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Automotive",
+    "tags": [
+      "automotive",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "CPM-071",
+        "inventory_quantity": 100,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Phone Mount - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Phone Mount - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Phone Mount - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Car Air Freshener",
+    "body_html": "<p>Long-lasting car air freshener with natural fragrance. Keep your car smelling fresh.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Automotive",
+    "tags": [
+      "automotive",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "9.99",
+        "compare_at_price": "19.99",
+        "sku": "CAF-072",
+        "inventory_quantity": 150,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Air Freshener - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Air Freshener - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Air Freshener - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Tire Pressure Gauge",
+    "body_html": "<p>Digital tire pressure gauge with LCD display and backlight. Essential for vehicle maintenance.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Automotive",
+    "tags": [
+      "automotive",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "14.99",
+        "compare_at_price": "24.99",
+        "sku": "TPG-073",
+        "inventory_quantity": 80,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Tire Pressure Gauge - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Tire Pressure Gauge - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Tire Pressure Gauge - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Car Cleaning Kit",
+    "body_html": "<p>Complete car cleaning kit with microfiber towels and cleaning solutions. Keep your car spotless.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Automotive",
+    "tags": [
+      "automotive",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "29.99",
+        "compare_at_price": "49.99",
+        "sku": "CCK-074",
+        "inventory_quantity": 60,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Cleaning Kit - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Cleaning Kit - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Cleaning Kit - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "USB Car Charger",
+    "body_html": "<p>Dual USB car charger with fast charging capability. Power multiple devices on the go.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Automotive",
+    "tags": [
+      "automotive",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "UCC-075",
+        "inventory_quantity": 120,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "USB Car Charger - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "USB Car Charger - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "USB Car Charger - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Car Seat Covers",
+    "body_html": "<p>Universal car seat covers with easy installation and machine washable fabric. Protect your seats.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Automotive",
+    "tags": [
+      "automotive",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "49.99",
+        "compare_at_price": "79.99",
+        "sku": "CSC-076",
+        "inventory_quantity": 40,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Seat Covers - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Seat Covers - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Seat Covers - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Dash Cam",
+    "body_html": "<p>HD dash cam with night vision and loop recording. Record your journeys for safety and evidence.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Automotive",
+    "tags": [
+      "automotive",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "69.99",
+        "compare_at_price": "99.99",
+        "sku": "DC-077",
+        "inventory_quantity": 30,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Dash Cam - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Dash Cam - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Dash Cam - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Car Organizer",
+    "body_html": "<p>Car seat organizer with multiple pockets and compartments. Keep your car tidy and organized.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Automotive",
+    "tags": [
+      "automotive",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "24.99",
+        "compare_at_price": "39.99",
+        "sku": "CO-078",
+        "inventory_quantity": 70,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Organizer - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Organizer - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Organizer - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Jump Starter",
+    "body_html": "<p>Portable jump starter with built-in flashlight and USB ports. Emergency power for your vehicle.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Automotive",
+    "tags": [
+      "automotive",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "89.99",
+        "compare_at_price": "129.99",
+        "sku": "JS-079",
+        "inventory_quantity": 25,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Jump Starter - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Jump Starter - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Jump Starter - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Car Vacuum",
+    "body_html": "<p>Cordless car vacuum with powerful suction and long battery life. Clean your car anywhere.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Automotive",
+    "tags": [
+      "automotive",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "39.99",
+        "compare_at_price": "59.99",
+        "sku": "CV-080",
+        "inventory_quantity": 35,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 3,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Vacuum - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Vacuum - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "alt": "Car Vacuum - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Dog Leash Set",
+    "body_html": "<p>Durable dog leash set with adjustable length and comfortable handle. Safe walks for your furry friend.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Pet Supplies",
+    "tags": [
+      "pet supplies",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "DLS-081",
+        "inventory_quantity": 80,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Dog Leash Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Dog Leash Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Dog Leash Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Cat Scratching Post",
+    "body_html": "<p>Multi-level cat scratching post with sisal rope and plush platforms. Keep cats active and happy.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Pet Supplies",
+    "tags": [
+      "pet supplies",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "29.99",
+        "compare_at_price": "49.99",
+        "sku": "CSP-082",
+        "inventory_quantity": 45,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Cat Scratching Post - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Cat Scratching Post - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Cat Scratching Post - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Pet Food Bowl Set",
+    "body_html": "<p>Stainless steel pet food bowl set with non-slip base. Easy to clean and durable.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Pet Supplies",
+    "tags": [
+      "pet supplies",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "14.99",
+        "compare_at_price": "24.99",
+        "sku": "PFBS-083",
+        "inventory_quantity": 100,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet Food Bowl Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet Food Bowl Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet Food Bowl Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Dog Toy Collection",
+    "body_html": "<p>Interactive dog toy collection with various textures and sizes. Keep your dog entertained and active.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Pet Supplies",
+    "tags": [
+      "pet supplies",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "24.99",
+        "compare_at_price": "39.99",
+        "sku": "DTC-084",
+        "inventory_quantity": 60,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Dog Toy Collection - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Dog Toy Collection - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Dog Toy Collection - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Pet Grooming Kit",
+    "body_html": "<p>Complete pet grooming kit with brushes, nail clippers, and shampoo. Professional grooming at home.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Pet Supplies",
+    "tags": [
+      "pet supplies",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "39.99",
+        "compare_at_price": "59.99",
+        "sku": "PGK-085",
+        "inventory_quantity": 35,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet Grooming Kit - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet Grooming Kit - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet Grooming Kit - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Cat Litter Box",
+    "body_html": "<p>Enclosed cat litter box with privacy door and easy cleaning design. Odor control and cleanliness.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Pet Supplies",
+    "tags": [
+      "pet supplies",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "34.99",
+        "compare_at_price": "49.99",
+        "sku": "CLB-086",
+        "inventory_quantity": 50,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Cat Litter Box - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Cat Litter Box - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Cat Litter Box - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Dog Bed",
+    "body_html": "<p>Orthopedic dog bed with memory foam and washable cover. Comfortable sleep for your pet.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Pet Supplies",
+    "tags": [
+      "pet supplies",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "49.99",
+        "compare_at_price": "79.99",
+        "sku": "DB-087",
+        "inventory_quantity": 30,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Dog Bed - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Dog Bed - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Dog Bed - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Pet Carrier",
+    "body_html": "<p>Ventilated pet carrier with secure latches and comfortable padding. Safe travel for your pet.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Pet Supplies",
+    "tags": [
+      "pet supplies",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "59.99",
+        "compare_at_price": "89.99",
+        "sku": "PC-088",
+        "inventory_quantity": 25,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet Carrier - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet Carrier - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet Carrier - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Pet Treats",
+    "body_html": "<p>Natural pet treats with healthy ingredients and no artificial additives. Reward your pet safely.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Pet Supplies",
+    "tags": [
+      "pet supplies",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "PT-089",
+        "inventory_quantity": 90,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 3,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet Treats - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet Treats - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet Treats - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Pet ID Tag",
+    "body_html": "<p>Engraved pet ID tag with contact information. Essential for pet safety and identification.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Pet Supplies",
+    "tags": [
+      "pet supplies",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "9.99",
+        "compare_at_price": "19.99",
+        "sku": "PIT-090",
+        "inventory_quantity": 120,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet ID Tag - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet ID Tag - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=600&fit=crop",
+        "alt": "Pet ID Tag - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Garden Tool Set",
+    "body_html": "<p>Professional garden tool set with ergonomic handles and rust-resistant coating. Essential for gardening.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Garden & Outdoor",
+    "tags": [
+      "garden & outdoor",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "39.99",
+        "compare_at_price": "59.99",
+        "sku": "GTS-091",
+        "inventory_quantity": 40,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Tool Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Tool Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Tool Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Plant Seeds Collection",
+    "body_html": "<p>Organic plant seeds collection with various vegetables and herbs. Start your own garden.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Garden & Outdoor",
+    "tags": [
+      "garden & outdoor",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "PSC-092",
+        "inventory_quantity": 80,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Plant Seeds Collection - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Plant Seeds Collection - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Plant Seeds Collection - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Garden Hose",
+    "body_html": "<p>Expandable garden hose with spray nozzle and storage bag. Water your garden efficiently.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Garden & Outdoor",
+    "tags": [
+      "garden & outdoor",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "29.99",
+        "compare_at_price": "49.99",
+        "sku": "GH-093",
+        "inventory_quantity": 60,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Hose - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Hose - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Hose - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Outdoor Solar Lights",
+    "body_html": "<p>Solar-powered outdoor lights with automatic on/off and weather resistance. Illuminate your garden.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Garden & Outdoor",
+    "tags": [
+      "garden & outdoor",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "24.99",
+        "compare_at_price": "39.99",
+        "sku": "OSL-094",
+        "inventory_quantity": 70,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Outdoor Solar Lights - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Outdoor Solar Lights - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Outdoor Solar Lights - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Plant Pot Set",
+    "body_html": "<p>Terracotta plant pot set with drainage holes and saucers. Perfect for indoor and outdoor plants.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Garden & Outdoor",
+    "tags": [
+      "garden & outdoor",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "PPS-095",
+        "inventory_quantity": 100,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 5,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Plant Pot Set - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Plant Pot Set - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Plant Pot Set - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Garden Gloves",
+    "body_html": "<p>Durable garden gloves with reinforced fingertips and breathable material. Protect your hands while gardening.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Garden & Outdoor",
+    "tags": [
+      "garden & outdoor",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "14.99",
+        "compare_at_price": "24.99",
+        "sku": "GG-096",
+        "inventory_quantity": 90,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Gloves - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Gloves - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Gloves - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Compost Bin",
+    "body_html": "<p>Aerated compost bin with easy access and pest-proof design. Create nutrient-rich soil naturally.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Garden & Outdoor",
+    "tags": [
+      "garden & outdoor",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "49.99",
+        "compare_at_price": "79.99",
+        "sku": "CB-097",
+        "inventory_quantity": 25,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 4,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Compost Bin - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Compost Bin - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Compost Bin - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Garden Kneeler",
+    "body_html": "<p>Foldable garden kneeler with tool storage and comfortable padding. Make gardening easier on your knees.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Garden & Outdoor",
+    "tags": [
+      "garden & outdoor",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "19.99",
+        "compare_at_price": "29.99",
+        "sku": "GK-098",
+        "inventory_quantity": 50,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 2,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Kneeler - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Kneeler - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Kneeler - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Watering Can",
+    "body_html": "<p>Galvanized steel watering can with long spout and comfortable handle. Gentle watering for delicate plants.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Garden & Outdoor",
+    "tags": [
+      "garden & outdoor",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "24.99",
+        "compare_at_price": "39.99",
+        "sku": "WC-099",
+        "inventory_quantity": 65,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 1,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Watering Can - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Watering Can - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Watering Can - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  },
+  {
+    "title": "Garden Pruner",
+    "body_html": "<p>Professional garden pruner with sharp blades and ergonomic grip. Perfect for trimming and pruning.</p>",
+    "vendor": "Lightning Shop",
+    "product_type": "Garden & Outdoor",
+    "tags": [
+      "garden & outdoor",
+      "premium",
+      "quality"
+    ],
+    "variants": [
+      {
+        "price": "29.99",
+        "compare_at_price": "49.99",
+        "sku": "GP-100",
+        "inventory_quantity": 35,
+        "inventory_management": "shopify",
+        "inventory_policy": "deny",
+        "requires_shipping": true,
+        "taxable": true,
+        "weight": 3,
+        "weight_unit": "kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Pruner - Image 1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Pruner - Image 2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+        "alt": "Garden Pruner - Image 3"
+      }
+    ],
+    "status": "active",
+    "published": true,
+    "published_scope": "web"
+  }
+]

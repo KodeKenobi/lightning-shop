@@ -1,0 +1,86 @@
+{
+  "successful": [],
+  "failed": [
+    {
+      "title": "Bluetooth Speaker",
+      "error": "Failed to add any images"
+    },
+    {
+      "title": "Bluetooth Speaker",
+      "error": "Failed to add any images"
+    },
+    {
+      "title": "Gaming Mouse",
+      "error": "Failed to add any images"
+    },
+    {
+      "title": "gsdgsgg",
+      "error": "No matching product found"
+    },
+    {
+      "title": "Mechanical Keyboard",
+      "error": "Failed to add any images"
+    },
+    {
+      "title": "Short Sleeve T Shirt",
+      "error": "No matching product found"
+    },
+    {
+      "title": "sjsjhsjhds",
+      "error": "No matching product found"
+    },
+    {
+      "title": "Smart Fitness Watch",
+      "error": "Failed to add any images"
+    },
+    {
+      "title": "Smart Fitness Watch",
+      "error": "Failed to add any images"
+    },
+    {
+      "title": "Test",
+      "error": "No matching product found"
+    },
+    {
+      "title": "Test",
+      "error": "No matching product found"
+    },
+    {
+      "title": "Test New",
+      "error": "No matching product found"
+    },
+    {
+      "title": "Test New UpdTest New Updateate",
+      "error": "No matching product found"
+    },
+    {
+      "title": "Test Product from Postman",
+      "error": "No matching product found"
+    },
+    {
+      "title": "USB-C Hub",
+      "error": "Failed to add any images"
+    },
+    {
+      "title": "USB-C Hub",
+      "error": "Failed to add any images"
+    },
+    {
+      "title": "Wireless Bluetooth Headphones",
+      "error": "Failed to add any images"
+    },
+    {
+      "title": "Wireless Bluetooth Headphones",
+      "error": "Failed to add any images"
+    },
+    {
+      "title": "Wireless Charging Pad",
+      "error": "Failed to add any images"
+    },
+    {
+      "title": "Wireless Charging Pad",
+      "error": "Failed to add any images"
+    }
+  ],
+  "total": 20
+}

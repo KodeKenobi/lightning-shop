@@ -1,8 +1,13 @@
 "use client";
 
+import { useEffect } from "react";
+import Link from "next/link";
+import { preloadProducts } from "@/lib/shopify";
 import HeroSection from "../HeroSection";
 import PromoCategoriesSection from "../PromoCategoriesSection";
 import ProductCard from "../ProductCard";
+import FeaturedBrandsSection from "../FeaturedBrandsSection";
+import CTASection from "../CTASection";
 
 type Product = {
   id: string;
@@ -35,6 +40,22 @@ export default function HomePage({
   initialHeroData,
   initialProductsData,
 }: HomePageProps) {
+  // Preload all product detail pages for instant navigation
+  useEffect(() => {
+    // Preload products for instant access
+    preloadProducts();
+
+    if (initialProductsData) {
+      initialProductsData.forEach((product) => {
+        // Create invisible links to trigger prefetching
+        const link = document.createElement("link");
+        link.rel = "prefetch";
+        link.href = `/products/${product.id}`;
+        document.head.appendChild(link);
+      });
+    }
+  }, [initialProductsData]);
+
   return (
     <div className="min-h-screen">
       <HeroSection initialHeroData={initialHeroData} />
@@ -79,6 +100,10 @@ export default function HomePage({
           )}
         </div>
       </section>
+
+      <FeaturedBrandsSection />
+
+      <CTASection />
     </div>
   );
 }

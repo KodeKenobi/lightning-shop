@@ -1,0 +1,50 @@
+{
+  "totalProducts": 100,
+  "categories": [
+    {
+      "name": "Electronics",
+      "productCount": 10
+    },
+    {
+      "name": "Fashion",
+      "productCount": 10
+    },
+    {
+      "name": "Home & Living",
+      "productCount": 10
+    },
+    {
+      "name": "Sports & Fitness",
+      "productCount": 10
+    },
+    {
+      "name": "Beauty & Personal Care",
+      "productCount": 10
+    },
+    {
+      "name": "Books & Stationery",
+      "productCount": 10
+    },
+    {
+      "name": "Toys & Games",
+      "productCount": 10
+    },
+    {
+      "name": "Automotive",
+      "productCount": 10
+    },
+    {
+      "name": "Pet Supplies",
+      "productCount": 10
+    },
+    {
+      "name": "Garden & Outdoor",
+      "productCount": 10
+    }
+  ],
+  "priceRange": {
+    "min": 9.99,
+    "max": 179.99
+  },
+  "totalStock": 6100
+}
