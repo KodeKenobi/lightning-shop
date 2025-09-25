@@ -57,9 +57,6 @@ export async function syncProductsFromShopify(): Promise<{
     const existingProducts = await sanityClient.fetch<SanityProduct[]>(
       `*[_type == "product"] { _id, shopifyId }`
     );
-    const existingShopifyIds = new Set(
-      existingProducts.map((p) => p.shopifyId)
-    );
 
     console.log(
       `📋 Found ${existingProducts.length} existing products in Sanity`

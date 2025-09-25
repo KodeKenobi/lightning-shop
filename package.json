@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "sync-products": "node scripts/sync-shopify-to-sanity.js"
+    "sync-products": "node scripts/sync-shopify-to-sanity.mjs"
   },
   "dependencies": {
     "@prisma/client": "^6.15.0",
