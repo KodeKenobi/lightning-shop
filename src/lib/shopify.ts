@@ -51,7 +51,7 @@ const pendingRequests = new Map<string, Promise<Product[]>>();
 let memoryCache: Product[] | null = null;
 let memoryCacheTime = 0;
 
-type Product = {
+export type Product = {
   id: string;
   slug: string;
   name: string;

@@ -73,7 +73,6 @@ export default function ProductCard({
     onAddToCart?.(product);
   };
 
-
   const nextImage = (e: React.MouseEvent) => {
     e.stopPropagation();
     setCurrentImageIndex((prev) => (prev + 1) % images.length);
@@ -181,24 +180,24 @@ export default function ProductCard({
               <span>Add to Cart</span>
             </button>
 
-          <button
-            onClick={handleWishlistToggle}
+            <button
+              onClick={handleWishlistToggle}
               className={`px-3 py-2 rounded-lg transition-all duration-300 transform hover:scale-105 ${
-              isWishlisted
+                isWishlisted
                   ? "bg-red-500 text-white shadow-md hover:shadow-lg"
                   : "bg-gray-100 text-gray-600 hover:bg-gray-200 hover:text-red-500"
-            }`}
-            aria-label={
-              isWishlisted ? "Remove from wishlist" : "Add to wishlist"
-            }
-          >
-            <FiHeart
+              }`}
+              aria-label={
+                isWishlisted ? "Remove from wishlist" : "Add to wishlist"
+              }
+            >
+              <FiHeart
                 className={`w-4 h-4 ${isWishlisted ? "fill-current" : ""}`}
-            />
-          </button>
+              />
+            </button>
+          </div>
         </div>
       </div>
-        </div>
 
       {/* Hover Effect Border */}
       <div className="absolute inset-0 rounded-2xl border-2 border-transparent group-hover:border-gradient-to-r group-hover:from-blue-500 group-hover:to-purple-500 transition-all duration-300 pointer-events-none" />
